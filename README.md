@@ -12,9 +12,8 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 
 ## Projects
-- **Project 1: Simple Calculator** - A basic calculator to understand Python arithmetic operations.
-- **Project 2: Data Analysis with Python** - Using Python for data collection, processing, and visualization.
-
+- **Project 1: Band Name Generator** - A basic calculator to understand Python arithmetic operations.
+- 
 ## Resources
 - [Python Documentation](https://docs.python.org/3/)
 - [100 days of Code - Udemy]([https://realpython.com/](https://www.udemy.com/course/100-days-of-code/))
