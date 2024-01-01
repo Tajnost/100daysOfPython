@@ -7,13 +7,11 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log
 **Day 1: January 1, 2024**
-  - 
-
-
-
-## Projects
 - **Project 1: Band Name Generator** - A basic calculator to understand Python arithmetic operations.
-- 
+
+
+
+ 
 ## Resources
 - [Python Documentation](https://docs.python.org/3/)
 - [100 days of Code - Udemy](https://www.udemy.com/course/100-days-of-code/)
