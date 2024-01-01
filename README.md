@@ -16,7 +16,8 @@ The ReadMe is purely for me so I can stay more organised in my journey
 - **Project 2: Data Analysis with Python** - Using Python for data collection, processing, and visualization.
 
 ## Resources
-
+- [Python Documentation](https://docs.python.org/3/)
+- [100 days of Code - Udemy]([https://realpython.com/](https://www.udemy.com/course/100-days-of-code/))
 
 
 This README is a living document of my 100-day coding journey. I'll update it daily with new learnings, thoughts, and achievements!
