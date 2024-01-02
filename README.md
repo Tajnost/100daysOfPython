@@ -5,12 +5,17 @@ Welcome to my 100 Days of Python Challenge! Over the next 100 days, I'll be lear
 My goal is to build a strong foundation in Python and programming principles, complete daily coding challenges, and work on several projects.
 The ReadMe is purely for me so I can stay more organised in my journey
 
+
+
 - I started this journey on 01.01.2024.
 - Ended this journey on 
 
 ## Log
 **Day 1: January 1, 2024**
-- **Project 1: Band Name Generator** - A basic calculator to understand Python arithmetic operations.
+- **Project 1: Band Name Generator** - A basic Name Generator.
+
+**Day 2: January 2, 2024**
+- **Project 2: Tip Calculator**  -A basic calculator to understand Python arithmetic operations.
 
 
 
