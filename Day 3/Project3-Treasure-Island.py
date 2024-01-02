@@ -24,17 +24,17 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
 
-firstChoice = input("You come to the crossroad, would you like to go left or right? ")
+firstChoice = input("You come to the crossroad, would you like to go left or right? ").lower()
 
 if firstChoice == "left":
-    secondChoice = input("You came across a dark dark river, do you want to swim or wait for the boat? ")
+    secondChoice = input("You came across a dark dark river, do you want to swim or wait for the boat? ").lower()
     if secondChoice == "wait":
-        thirdChoice = input("Wow, you really did wait. \n A ship came that had three doors : Red, Yellow and Blue. Choose one: ")
-        if thirdChoice == "Red":
+        thirdChoice = input("Wow, you really did wait. \n A ship came that had three doors : Red, Yellow and Blue. Choose one: ").lower()
+        if thirdChoice == "red":
             print("Your were Burned by fire. Game over")
-        elif thirdChoice == "Blue":
+        elif thirdChoice == "blue":
             print("You were eaten by beasts. Game Over")
-        elif thirdChoice == "Yellow":
+        elif thirdChoice == "yellow":
             print("Congratulation, you won the game!")
         else:
             print("Game Over")
