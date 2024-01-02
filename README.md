@@ -1,7 +1,7 @@
 # 100 Days Of Python
 
 ## Introduction
-Welcome to my 100 Days of Python Challenge! Over the next 100 days, I'll be learning Python from the ground up. 
+Welcome to my 100 Days of Code: The Complete Python Pro Bootcamp! Over the next 100 days, I'll be learning Python from the ground up. 
 My goal is to build a strong foundation in Python and programming principles, complete daily coding challenges, and work on several projects.
 The ReadMe is purely for me so I can stay more organised in my journey
 
