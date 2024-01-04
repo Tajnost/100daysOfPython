@@ -12,6 +12,10 @@ def turn_right():
     turn_left()
     turn_left()   
 
+#### Edge Case Debug ###
+while front_is_clear():
+        move()
+turn_left()
 
 
 while at_goal() == False:
