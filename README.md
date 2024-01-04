@@ -16,12 +16,14 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 **Day 2: January 2, 2024**
 - **Project 2: Tip Calculator**  - A basic calculator to understand Python arithmetic operations.
+- 
+**Day 3: January 2, 2024**
 - **Project 3: Treasure Island**  - A basic application for training else if operations.
   
-**Day 3: January 2, 2024**
+**Day 4: January 2, 2024**
 - **Project 4: Rock Paper Scissors**  - A basic application for training elseif array and random.
 
-**Day 4: January 3, 2024**
+**Day 5: January 3, 2024**
 - **Project 5: Create a Password Generator** - A basic Password generator - Python Loops Practice, that ask you how many letters, numbers and symbols should it have. Then generates your password and shuffles it around
 - **Project 6: Reeborg World - Maze Challenge** - A basic Game - Python while loops and if statemts practice based on : [Reeborg World Game](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
  
