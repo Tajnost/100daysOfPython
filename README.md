@@ -21,6 +21,8 @@ The ReadMe is purely for me so I can stay more organised in my journey
 **Day 3: January 2, 2024**
 - **Project 4: Rock Paper Scissors**  - A basic application for training elseif array and random.
 
+**Day 4: January 3, 2024**
+- **Project 5: Create a Password Generator** - A basic Password generator - Python Loops Practice, that ask you how many letters, numbers and symbols should it have. Then generates your password and shuffles it around
  
 ## Resources
 - [Python Documentation](https://docs.python.org/3/)
