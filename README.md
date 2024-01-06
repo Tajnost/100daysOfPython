@@ -29,7 +29,11 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 **Day 6: January 5, 2024**
 - **Project 7 : Hangman Game** - A simple hangman game, to get used to elif while loops and more!
- 
+
+**Day 7: January 6, 2024**  
+- **Project 8 : Checking if number is prime** - A simple game to repeate functions and function parameters
+- **Project 9 : Caesar Cipher** - Basic Cipher, that shifts letters based on user input.
+  
 ## Resources
 - [Python Documentation](https://docs.python.org/3/)
 - [100 days of Code - Udemy](https://www.udemy.com/course/100-days-of-code/)
