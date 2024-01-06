@@ -16,7 +16,7 @@ The ReadMe is purely for me so I can stay more organised in my journey
 - **Project 8 : Checking if number is prime** - A simple game to repeate functions and function parameters
 - **Project 9 : Caesar Cipher** - Basic Cipher, that shifts letters based on user input.
 
-  **Day 6: January 5, 2024**
+**Day 6: January 5, 2024**
 - **Project 7 : Hangman Game** - A simple hangman game, to get used to elif while loops and more!
 
 **Day 5: January 4, 2024**
