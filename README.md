@@ -16,7 +16,7 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 **Day 2: January 2, 2024**
 - **Project 2: Tip Calculator**  - A basic calculator to understand Python arithmetic operations.
-- 
+  
 **Day 3: January 2, 2024**
 - **Project 3: Treasure Island**  - A basic application for training else if operations.
   
