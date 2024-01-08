@@ -11,6 +11,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 - Ended this journey on 
 
 ## Log Descending
+**Day 9: January 8, 2024** 
+- **Project 11 : Calculator** - A Calculator that can do basic mathematic operations, while asking us for input each step of the way.
+
 **Day 8: January 7, 2024**  
 - **Project 10 : Secret Audition** - A auction house game, where you ask people for their name and their bid - then store them in a dictionary, and check who is the highest bidder.
 
