@@ -11,6 +11,10 @@ The ReadMe is purely for me so I can stay more organised in my journey
 - Ended this journey on 
 
 ## Log Descending
+
+**Day 10: January 9, 2024 CAPSTONE EXCERICE** -
+- **Project 12 : Blackjack** -  A blackjack application that tests you on all other 10 days of work.
+
 **Day 9: January 8, 2024** 
 - **Project 11 : Calculator** - A Calculator that can do basic mathematic operations, while asking us for input each step of the way.
 
