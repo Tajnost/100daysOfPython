@@ -22,15 +22,16 @@ The ReadMe is purely for me so I can stay more organised in my journey
 - **Project 10 : Secret Audition** - A auction house game, where you ask people for their name and their bid - then store them in a dictionary, and check who is the highest bidder.
 
 **Day 7: January 6, 2024**  
-- **Project 8 : Checking if number is prime** - A simple game to repeate functions and function parameters
 - **Project 9 : Caesar Cipher** - Basic Cipher, that shifts letters based on user input.
+- **Project 8 : Checking if number is prime** - A simple game to repeate functions and function parameters
+
 
 **Day 6: January 5, 2024**
 - **Project 7 : Hangman Game** - A simple hangman game, to get used to elif while loops and more!
 
 **Day 5: January 4, 2024**
-- **Project 5: Create a Password Generator** - A basic Password generator - Python Loops Practice, that ask you how many letters, numbers and symbols should it have. Then generates your password and shuffles it around
 - **Project 6: Reeborg World - Maze Challenge** - A basic Game - Python while loops and if statemts practice based on : [Reeborg World Game](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+- **Project 5: Create a Password Generator** - A basic Password generator - Python Loops Practice, that ask you how many letters, numbers and symbols should it have. Then generates your password and shuffles it around
 
 **Day 4: January 3, 2024**
 - **Project 4: Rock Paper Scissors**  - A basic application for training elseif array and random.
