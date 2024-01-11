@@ -13,7 +13,7 @@ The ReadMe is purely for me so I can stay more organised in my journey
 ## Log Descending
 
 **Day 12: January 11, 2024**
-- **Project 14 : Higher Or Lower** -  A game, where you need to decide if option A has more followers or option B, it keeps count, and is endless until you loose.
+- **Project 14 : Higher Or Lower** - A social media followers guessing game where players decide if option A has more followers than option B. The game tracks the player's score continuously and offers an endless mode for prolonged engagement.
 
 **Day 11: January 10, 2024**
 - **Project 13 : A guessing game** -  A guessing game, that has some ASCII art included.
