@@ -12,7 +12,7 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 **Day 13: January 12, 2024**
-- **Project 15 : Higher Or Lower** -  This project involves creating a coffee machine that interacts with players. It accepts coin inputs and evaluates whether it has sufficient ingredients and if the player has inserted enough money. Additionally, the machine includes an option to turn off and displays the available ingredients.
+- **Project 15 : Coffee Machine** -  This project involves creating a coffee machine that interacts with players. It accepts coin inputs and evaluates whether it has sufficient ingredients and if the player has inserted enough money. Additionally, the machine includes an option to turn off and displays the available ingredients.
 
 **Day 12: January 11, 2024**
 - **Project 14 : Higher Or Lower** - A social media followers guessing game where players decide if option A has more followers than option B. The game tracks the player's score continuously and offers an endless mode for prolonged engagement.
