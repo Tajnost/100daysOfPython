@@ -11,6 +11,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 - Ended this journey on 
 
 ## Log Descending
+**Day 14: January 13, 2024**
+- **Project 16 : Coffee Machine** -  THe project is the same as previous one with the exception is is using OBject Oriented PRogramming as an example This project involves creating a coffee machine that interacts with players. It accepts coin inputs and evaluates whether it has sufficient ingredients and if the player has inserted enough money. Additionally, the machine includes an option to turn off and displays the available ingredients.
+  
 **Day 13: January 12, 2024**
 - **Project 15 : Coffee Machine** -  This project involves creating a coffee machine that interacts with players. It accepts coin inputs and evaluates whether it has sufficient ingredients and if the player has inserted enough money. Additionally, the machine includes an option to turn off and displays the available ingredients.
 
