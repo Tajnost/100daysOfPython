@@ -11,6 +11,8 @@ The ReadMe is purely for me so I can stay more organised in my journey
 - Ended this journey on 
 
 ## Log Descending
+**Day 16: January 15, 2024**
+- **Project 17 : Million Dollar Question** - This project focuses on exploring Turtle Graphics to create a Spot Painting, utilizing built-in functions. Additionally, it incorporates 'cologram.py' for extracting RGB values from an existing picture.
 
 **Day 15: January 14, 2024**
 - **Project 16 : True False Questionaire** - The project trying to learn more about OOP. Its a simple Trivia that asks user about stuff.
