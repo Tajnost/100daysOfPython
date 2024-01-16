@@ -13,6 +13,7 @@ The ReadMe is purely for me so I can stay more organised in my journey
 ## Log Descending
 **Day 17: January 16, 2024**
 - **Project 18 : Turtle race** - involves creating a turtle race game in which players place bets on one of six turtles. The game randomizes each turtle's movement, and if the turtle you bet on wins, the game announces your victory.
+  
 **Day 16: January 15, 2024**
 - **Project 17 : Million Dollar Question** - This project focuses on exploring Turtle Graphics to create a Spot Painting, utilizing built-in functions. Additionally, it incorporates 'cologram.py' for extracting RGB values from an existing picture.
 
