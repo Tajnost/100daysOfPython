@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 18: January 17, 2024**
+- **Project 19 : Snake Day 1** - A simple snake game without the Food mechanics for it to grow, and without the walls for it to end game.
+
 **Day 17: January 16, 2024**
 - **Project 18 : Turtle race** - involves creating a turtle race game in which players place bets on one of six turtles. The game randomizes each turtle's movement, and if the turtle you bet on wins, the game announces your victory.
   
