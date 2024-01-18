@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 19: January 18, 2024**
+- **Project 19 : Snake Day 2** - Added food , size increase and colision
+
 **Day 18: January 17, 2024**
 - **Project 19 : Snake Day 1** - A simple snake game without the Food mechanics for it to grow, and without the walls for it to end game.
 
