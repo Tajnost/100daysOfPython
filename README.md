@@ -13,22 +13,22 @@ The ReadMe is purely for me so I can stay more organised in my journey
 ## Log Descending
 
 **DAy 20 and 21: January 19,20 2024**
-- **Project 21: Pong** - Creating the original pong game from the 80s <3
+- **Project 22: Pong** - Creating the original pong game from the 80s <3
 
 **Day 19: January 18, 2024**
-- **Project 20 : Snake Day 2** - Added food , size increase and colision
+- **Project 21 : Snake Day 2** - Added food , size increase and colision
 
 **Day 18: January 17, 2024**
-- **Project 19 : Snake Day 1** - A simple snake game without the Food mechanics for it to grow, and without the walls for it to end game.
+- **Project 20 : Snake Day 1** - A simple snake game without the Food mechanics for it to grow, and without the walls for it to end game.
 
 **Day 17: January 16, 2024**
-- **Project 18 : Turtle race** - involves creating a turtle race game in which players place bets on one of six turtles. The game randomizes each turtle's movement, and if the turtle you bet on wins, the game announces your victory.
+- **Project 19 : Turtle race** - involves creating a turtle race game in which players place bets on one of six turtles. The game randomizes each turtle's movement, and if the turtle you bet on wins, the game announces your victory.
   
 **Day 16: January 15, 2024**
-- **Project 17 : Million Dollar Question** - This project focuses on exploring Turtle Graphics to create a Spot Painting, utilizing built-in functions. Additionally, it incorporates 'cologram.py' for extracting RGB values from an existing picture.
+- **Project 18 : Million Dollar Question** - This project focuses on exploring Turtle Graphics to create a Spot Painting, utilizing built-in functions. Additionally, it incorporates 'cologram.py' for extracting RGB values from an existing picture.
 
 **Day 15: January 14, 2024**
-- **Project 16 : True False Questionaire** - The project trying to learn more about OOP. Its a simple Trivia that asks user about stuff.
+- **Project 17 : True False Questionaire** - The project trying to learn more about OOP. Its a simple Trivia that asks user about stuff.
 
 **Day 14: January 13, 2024**
 - **Project 16 : Coffee Machine** -  THe project is the same as previous one with the exception is is using OBject Oriented PRogramming as an example This project involves creating a coffee machine that interacts with players. It accepts coin inputs and evaluates whether it has sufficient ingredients and if the player has inserted enough money. Additionally, the machine includes an option to turn off and displays the available ingredients.
