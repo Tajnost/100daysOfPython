@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**DAy 20 and 21: January 19,20 2024**
+- **Project 21: Pong** - Creating the original pong game from the 80s <3
+
 **Day 19: January 18, 2024**
 - **Project 20 : Snake Day 2** - Added food , size increase and colision
 
