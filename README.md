@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 23 : January,21 2024**
+- **Project 23: Turtle Crossing the Road** - A little game where the Turtle needs to cross the road while random cars are speeding towards it. Each time it manages to cross it , the game increase by speed * 5.
+
 **DAy 20 and 21: January 19,20 2024**
 - **Project 22: Pong** - Creating the original pong game from the 80s <3
 
