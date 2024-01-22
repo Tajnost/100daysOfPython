@@ -12,7 +12,10 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
-**Day 23 : January,21 2024**
+**Day 24 : January 22, 2024**
+- **Project 24: Invitation Sender** - Mail Merger - It takes input from one .txt file, and input from another folder, combines them into a nice mail for sending multiple mails to different people for birthday class. A lesson in learning how to manipulate sending opening and editing files outside python. Oh and we also updated our snake game to keep highscore.
+
+**Day 23 : January 21, 2024**
 - **Project 23: Turtle Crossing the Road** - A little game where the Turtle needs to cross the road while random cars are speeding towards it. Each time it manages to cross it , the game increase by speed * 5.
 
 **DAy 20 and 21: January 19,20 2024**
