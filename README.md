@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 25 : January 24, 2024**
+- **Project 25: State Guessing Game** - Panda and Turtle guessing game
+
 **Day 24 : January 22, 2024**
 - **Project 24: Invitation Sender** - Mail Merger - It takes input from one .txt file, and input from another folder, combines them into a nice mail for sending multiple mails to different people for birthday class. A lesson in learning how to manipulate sending opening and editing files outside python. Oh and we also updated our snake game to keep highscore.
 
