@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 26 : January 26, 2024**
+- **Project 26: NATO Alphabet** - Gane that takes your name and converts it to a alphabet 
+
 **Day 25 : January 24, 2024**
 - **Project 25: State Guessing Game** - Panda and Turtle guessing game
 
