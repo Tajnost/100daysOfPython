@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 27 : January 29, 2024**
+- **Project 28, Pomodoro** - A simple pomodoro applicatin with Tkinter GUI
+
 **Day 26 : January 27, 2024**
 - **Project 27: TKinter Calculator** - A simple Miles to KM converter, but using tkinter to do it.
 
