@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 28 : January 30, 2024**
+--**Project 28, Pomodoro** - Making the app differently
+
 **Day 27 : January 29, 2024**
 - **Project 28, Pomodoro** - A simple pomodoro applicatin with Tkinter GUI
 
