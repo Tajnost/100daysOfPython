@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 29 : February 01, 2024**
+- **Project 29, Password Manager GUI** - A password manager GUI build with tkinter
+
 **Day 28 : January 30, 2024**
 - **Project 28, Pomodoro** - Making the app differently
 
