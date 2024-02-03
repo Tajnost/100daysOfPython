@@ -11,8 +11,12 @@ The ReadMe is purely for me so I can stay more organised in my journey
 - Ended this journey on 
 
 ## Log Descending
+
+**Day 31: February 03, 2024**
+- **Project 31, FlashCards** - A simple flashcard app, for learning languages <3, with save options and stuff
+
 **Day 30 : February 02, 2024**
-- **Project30, Password Manager GUI**- Updated the password manager, to have a SEARCH option, and exception handling
+- **Project 30, Password Manager GUI**- Updated the password manager, to have a SEARCH option, and exception handling
 
 **Day 29 : February 01, 2024**
 - **Project 29, Password Manager GUI** - A password manager GUI build with tkinter
