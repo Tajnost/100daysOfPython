@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 32: February 06, 2024**
+- **Project 32, Happy Bday Mailer**, A complex mail server, that sends birthday wishes, if current day equals day of bday
+
 **February 04 and February 05, 2024** - Had a break due to exams in CS
 
 **Day 31: February 03, 2024**
