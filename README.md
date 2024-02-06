@@ -12,6 +12,8 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**February 04 and February 05, 2024** - Had a break due to exams in CS
+
 **Day 31: February 03, 2024**
 - **Project 31, FlashCards** - A simple flashcard app, for learning languages <3, with save options and stuff
 
