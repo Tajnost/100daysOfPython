@@ -12,8 +12,13 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 35: February 13, 2024**
+- **Project 35, API SMS**, Using Twilio an
+
+  ( Had to work on a internal Cracking tool from 9-12)
+
 **Day 34: February 08, 2024**
-- **Project 44, Trivia**, Trivia with GUI and api call
+- **Project 34, Trivia**, Trivia with GUI and api call
 
 **Day 33: February 07, 2024**
 - **Project 33, ISS API Mailer**, A simple app to get to know API calls. If ISS station is above my location, and the current time is between sunset and sunrise. It sends a email to look at the sky.
