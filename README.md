@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 37: February 15,2024**
+- **Project 37: Getting Compy with API**: A simple program based on Pixe.la, to update and track your progress
+
 **Day 36: February 14,2024**
 - **Project 36, API SMS with TESLA stocks and news**, a program uses API from two different vendors to check for tesla tocks, and if the difference betwen x y closing day is greater than 5, it tell you why
 
