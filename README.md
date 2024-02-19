@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 39 and day 40: February 17,18 2024**
+- **Project 39: Airplane price tracekr**
+
 **Day 38: February 16, 2024**
 - **Project 38: Workout Tracker** -  A tracker that Combining Nutritionix and Sheety, to tracck my Workout
 
