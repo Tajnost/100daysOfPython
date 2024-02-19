@@ -12,6 +12,9 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
+**Day 41: Februqary 19 2024**
+- **Project 40**: I wouldnt call this a project 
+
 **Day 39 and day 40: February 17,18 2024**
 - **Project 39: Airplane price tracekr**
 
