@@ -12,8 +12,8 @@ The ReadMe is purely for me so I can stay more organised in my journey
 
 ## Log Descending
 
-**Day 41: Februqary 19 2024**
-- **Project 40**: I wouldnt call this a project 
+**Day 41-44: Februqary 19-28 2024**
+- **Projects with HTML/CSS** Some random stuff - I was on hold since I was studying for CEH exam.
 
 **Day 39 and day 40: February 17,18 2024**
 - **Project 39: Airplane price tracekr**
